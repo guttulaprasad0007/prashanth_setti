@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#news img{
+    width: 100%;
+    height: 300px;
+}
+.blog{
+    position:absolute;
+    top: 5px;
+   right: 5px;
+    padding: 5px;
+    background:white;
+}
+.blog2{
+    position:absolute;
+    top: 5px;
+   left: 5px;
+    padding: 5px;
+    background:white;
+}
+.border{
+    width: 80px;
+   justify-content: center;
+}
+#hotel {
+    background: #f85a3f;
+    padding: 20px;
+}
+#testi img{
+    
+        width: 80px;
+        height: 80px;
+        border-radius:50%
+}
+#testi span{
+    color:#483b4c ;
+    font-weight: bold;
+}
+#testi .row .card{
+    background: #f85a3f;
+}
+#testi .card .card-body span{
+    font-size: 25px;
+}
+#about img{
+    width: 100%;
+    height: 300px;
+}
+#about .icon1{
+    font-size: 50px;
+    border: 2px;
+    background: #f85a3f;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+   
+}
+#banner img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+#banner {
+    background:#f8f9fb;
+    padding: 20px;
+}
+#nav-bar{
+    background: #f85a3f;
+   
+}
+.navbar-collapse{
+    justify-content: flex-end; 
+    }
+.navbar-expand-lg{
+    width: 100%;
+    }
+#bar{
+    background:#333333 ;
+}
+#footer {
+    background: #191919;
+}
+#footer span{
+    color: #f23e23;
+}
+#footer .border{
+    width: 100%;
+}
+.foot{
+    background: #191919;
+    text-align: center;
+    padding: 10px;
+}
